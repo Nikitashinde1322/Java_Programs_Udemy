@@ -11,7 +11,7 @@ public class P_6
     {
         Scanner sc = new Scanner(System.in);
 
-        int x = 12;
+        int x = 45;
         System.out.println( Integer.toOctalString (x) );
     }    
 }
